@@ -1,0 +1,15 @@
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.csproj.AssemblyReference.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.AssemblyInfoInputs.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.AssemblyInfo.cs
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.csproj.CoreCompileInputs.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\bin\Debug\net6.0\Bash_A_Monster.exe
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\bin\Debug\net6.0\Bash_A_Monster.deps.json
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\bin\Debug\net6.0\Bash_A_Monster.runtimeconfig.json
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\bin\Debug\net6.0\Bash_A_Monster.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\bin\Debug\net6.0\Bash_A_Monster.pdb
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\refint\Bash_A_Monster.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.pdb
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\Bash_A_Monster.genruntimeconfig.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Bash_A_Monster\Bash_A_Monster\obj\Debug\net6.0\ref\Bash_A_Monster.dll
